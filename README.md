@@ -64,6 +64,10 @@ __CÁPITULO 4__
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/25%20Imagenes.png)
 
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/25.1.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/27.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/29.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/31.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/33.PNG)
 
 
 
