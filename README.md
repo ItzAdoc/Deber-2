@@ -107,6 +107,20 @@ __CÁPITULO 4__
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/31.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/33.PNG)
 
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/35-39.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/41.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/43.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/45.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/47.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/49.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/51.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/53-57.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/59.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/61.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/63-65.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/67.PNG)
 
 4. Video
 
