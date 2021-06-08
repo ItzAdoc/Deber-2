@@ -5,7 +5,7 @@
 
  __Objetivos Generales__
 
-* Conocer todos los tipos de resistencias existentes, asi como su clasificación y forma de indetificar cada una de ellas  
+* Entender como afecta la temperatura a un elemento resistivo, utlizar el codigo de colores para reconcer los valores de las resistencias fijas, calcular la condutancia de de cualquier elemento resistivo.
 * 
 
 __Objetivos Específicos__
