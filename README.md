@@ -19,6 +19,9 @@ __Objetivos Específicos__
 
 2. Marco Teórico
 
+![]()
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Marco_Cap_4.PNG)
 
 
 3. Resolución de los ejercicios
