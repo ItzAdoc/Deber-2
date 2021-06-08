@@ -18,7 +18,7 @@ __Objetivos Específicos__
 
 2. Marco Teórico
 
-![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Marco_Cap3.jpeg)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Marco3.jpeg)
 
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Marco_Cap_4.PNG)
 
