@@ -66,10 +66,10 @@ __CÁPITULO 3__
 
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej35-39.jpg)
 
-![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/41.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/41Cap3.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/43.1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/43.2.PNG)
-![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/45.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/45Cap3.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/45.1.PNG)
 
 
