@@ -28,6 +28,44 @@ __Objetivos Específicos__
 
 __CÁPITULO 3__
 
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej1.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej3.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej5.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej7.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej9.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej11.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej11.1.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej13-15.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej17.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej19.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej19.1.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej21.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej23.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej25.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej25.1.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej27.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej29-31.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej33.jpg)
+
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej35-39.jpg)
+
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/41.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/43.1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/43.2.PNG)
@@ -68,7 +106,6 @@ __CÁPITULO 4__
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/29.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/31.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/33.PNG)
-
 
 
 4. Video
