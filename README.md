@@ -54,7 +54,7 @@ __CÁPITULO 4__
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/17.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/17.1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/19.PNG)
-![]()Falta sadge
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/21.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/23.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/23.1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/25.PNG)
