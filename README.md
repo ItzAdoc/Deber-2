@@ -5,17 +5,16 @@
 
  __Objetivos Generales__
 
-* Entender como afecta la temperatura a un elemento resistivo, utlizar el codigo de colores para reconcer los valores de las resistencias fijas, calcular la condutancia de de cualquier elemento resistivo.
-* Comprender las definiciones de corriente, voltaje, resistencia, aprender a identificar la polaridad de voltaje, calcular la potencia dentro de los circuitos de corriente directa.
+* Entender cómo afecta la temperatura a un elemento resistivo, utilizar el código de colores para reconocer los valores de las resistencias fijas, calcular la conductancia de cualquier elemento resistivo.
+*  Comprender las definiciones de corriente, voltaje, resistencia, aprender a identificar la polaridad de voltaje, calcular la potencia dentro de los circuitos de corriente directa.
 
 __Objetivos Específicos__
 
 * Utilizar el coeficiente de temperatura de un material para calcular el cambio en la resistencia conforme varía la temperatura.
 * Comprender el código de colores de las resistencias fijas. 
 * Calcular la conductancia de cualquier componente resistivo.
-* Calcular el voltaje, la corriente y la resistencia en circuitos simples utilizando la ley de Ohm.
-* Usar la convención de referencia de voltaje para determinar la polaridad
-* Calcular la potencia en circuitos de DC.
+* Conocer la ley de Ohm y su uso en circuitos eléctricos.
+* Calcular la potencia en circuitos de cd.
 
 2. Marco Teórico
 
@@ -80,9 +79,8 @@ __CÁPITULO 4__
 * Es una propiedad de los materiales, existen 2 tipos, una negativa que se da cuando la temperatura aumenta la resistencia disminuye, y una positiva que cuando la temperatura aumenta la resistencia aumente.   
 * Las resistencias fijas contienen 4 bandas de diferentes colores y el código de colores se usa para determinar el valor y la tolerancia de una resistencia fija respecto a los colores de las bandas. 
 * La conductancia es la propiedad que tiene un material y mide su capacidad conducir la corriente eléctrica. Es la inversa de la resistencia y se representa con la letra “G”. 
-* D
-* E
-* F
+* La ley de Ohm une 3 magnitudes (Voltaje, Intensidad, Resistencia) las cuales se usan para determinar valores de voltaje, corriente y resistencia en circuitos eléctricos. Además, se da que mientras mayor sea el voltaje aplicado, mayor será la corriente; y entre más grande sea la resistencia, menor será la corriente.
+* Los circuitos Cd son aquello que tiene corriente directa es decir que tiene un positivo y negativo, en ellos se puede calcular la potencia mediante al formula P= V x I.
 
 7. Bibliografía
 * Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning. 
