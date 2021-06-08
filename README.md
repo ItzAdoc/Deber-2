@@ -108,7 +108,7 @@ __CÁPITULO 4__
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/33.PNG)
 
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/35-39.PNG)
-![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/41.PNG)
+![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/41A.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/43.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/45.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/47.PNG)
