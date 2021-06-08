@@ -11,7 +11,7 @@
 __Objetivos Específicos__
 
 * Utilizar el coeficiente de temperatura de un material para calcular el cambio en la resistencia conforme varía la temperatura.
-* Usar el código de colores de las resistencias para determinar su valor y tolerancia de una resistencia fija. 
+* Comprender el código de colores de las resistencias fijas. 
 * Calcular la conductancia de cualquier componente resistivo.
 * Calcular el voltaje, la corriente y la resistencia en circuitos simples utilizando la ley de Ohm.
 * Usar la convención de referencia de voltaje para determinar la polaridad
@@ -77,7 +77,12 @@ __CÁPITULO 4__
 
 5. Conclusiones 
 
-
+* Es una propiedad de los materiales, existen 2 tipos, una negativa que se da cuando la temperatura aumenta la resistencia disminuye, y una positiva que cuando la temperatura aumenta la resistencia aumente.   
+* Las resistencias fijas contienen 4 bandas de diferentes colores y el código de colores se usa para determinar el valor y la tolerancia de una resistencia fija respecto a los colores de las bandas. 
+* La conductancia es la propiedad que tiene un material y mide su capacidad conducir la corriente eléctrica. Es la inversa de la resistencia y se representa con la letra “G”. 
+* D
+* E
+* F
 
 7. Bibliografía
 * Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning. 
