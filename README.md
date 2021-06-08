@@ -6,7 +6,7 @@
  __Objetivos Generales__
 
 * Entender como afecta la temperatura a un elemento resistivo, utlizar el codigo de colores para reconcer los valores de las resistencias fijas, calcular la condutancia de de cualquier elemento resistivo.
-* 
+* Comprender las definiciones de corriente, voltaje, resistencia, aprender a identificar la polaridad de voltaje, calcular la potencia dentro de los circuitos de corriente directa.
 
 __Objetivos Específicos__
 
