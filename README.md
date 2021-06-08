@@ -5,20 +5,18 @@
 
  __Objetivos Generales__
 
-* 
+* Conocer todos los tipos de resistencias existentes, asi como su clasificación y forma de indetificar cada una de ellas  
 * 
 
 __Objetivos Específicos__
 
-* 
+* Utilizar el coeficiente de temperatura de un material para calcular el cambio en la resistencia conforme varía la temperatura.
+* Usar el código de colores de las resistencias para determinar su valor y tolerancia de una resistencia fija. 
+* Calcular la conductancia de cualquier componente resistivo.
+* Calcular el voltaje, la corriente y la resistencia en circuitos simples utilizando la ley de Ohm.
+* Usar la convención de referencia de voltaje para determinar la polaridad
+* Calcular la potencia en circuitos de DC.
 
-* 
-
-*
-
-* 
-
-* 
 2. Marco Teórico
 
 
